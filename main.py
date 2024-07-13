@@ -1,6 +1,6 @@
 from openai import OpenAI
-api_key = "use_your_open-ai_api-key"
-client = OpenAI(api_key=api_key)
+api = "use_your_open-ai_api-key"
+client = OpenAI(api_key=api)
 
 audio_file= open("./audio/test5.m4a", "rb")
 print("---------------------------------")
