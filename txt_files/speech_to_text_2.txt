@@ -1,0 +1,1 @@
+Hey, this is Ali, Bitbash employee and I have created this model that takes an audio file and converts it to text using OpenAI.

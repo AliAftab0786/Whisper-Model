@@ -1,0 +1,9 @@
+1: open terminal 
+2: For Mac:
+    ->pip3 install openai
+    after installation process completed:
+    ->python3 main.py
+3: For Window:
+    ->pip install openai
+    after installation process completed:
+    ->python main.py
